@@ -6,3 +6,5 @@ Contains the following components:
 - hypothesis inducer: finds new explanations
 - case inspector: inspection of an individual case given by case id
 - derivation log: one derivation of a rule set for the Road Fines event log (https://doi.org/10.4121/uuid:270fd440-1057-4fb9-89a9-b699b47990f5)
+
+Promise project release linked to Zenodo DOI: 10.5281/zenodo.15703293
